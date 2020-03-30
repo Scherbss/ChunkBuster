@@ -1,0 +1,6 @@
+name: ChunkBuster
+main: me.scherbs.chunkbuster.ChunkBusterPlugin
+version: 1.0
+description: Chunkbuster plugin
+commands:
+  chunkbuster:

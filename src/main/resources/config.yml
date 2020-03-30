@@ -1,0 +1,5 @@
+chunkbuster:
+  name: "&eChunk Buster"
+  material: OBSIDIAN
+  lore:
+    - '&c&LRIGHT-CLICK &cto place a chunk buster.'
